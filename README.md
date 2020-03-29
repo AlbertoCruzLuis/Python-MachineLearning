@@ -7,6 +7,7 @@ Por ultimo la libreria **Scikit-learn** para aplicar los algoritmos de ML
 
 ### Machine Learning
 - [Linear Regresion](Scikitlearn/Linear_regresion.ipynb)
+- [Polinomial Regresion](Scikitlearn/Polinomial_regresion.ipynb)
 
 
 ### Referencias o Guia de Usuario
