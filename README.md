@@ -1,6 +1,5 @@
 # Python-MachineLearning
-Repositorio para practicar Python con Pandas, Numpy, Matplotlib, Scikit-learn, Machine Learning/
-Cre
+Repositorio para practicar Python con Pandas, Numpy, Matplotlib, Scikit-learn, Machine Learning
 ## Introduccion
 Utilizamos la libreria de python **Pandas** y **Numpy** para guardar los datos e interactuar con ellos\
 Usamos la libreria de **Matplotlib** para visualizar los datos\
